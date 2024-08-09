@@ -160,7 +160,55 @@ To explore my solutions:
 
 ## Roadmap
 
-- [ ] Arrays & Hashing completed (16/08/2024)
+This roadmap provides a structured approach to completing the NeetCode 150 challenge, starting from August 9, 2024. The plan is divided into phases, focusing on related topics and gradually increasing in difficulty.
+
+### Phase 1: Foundations (August 9, 2024 - September 5, 2024)
+
+- [ ] Complete 01-Arrays & Hashing
+- [ ] Complete 02-Two Pointers
+- [ ] Complete 03-Stack
+- [ ] Complete 04-Binary Search
+
+### Phase 2: Data Structures Deep Dive (September 6, 2024 - October 3, 2024)
+
+- [ ] Complete 05-Sliding Window
+- [ ] Complete 06-Linked List
+- [ ] Complete 07-Trees
+- [ ] Complete 08-Tries
+
+### Phase 3: Advanced Data Structures (October 4, 2024 - October 31, 2024)
+
+- [ ] Complete 09-Backtracking
+- [ ] Complete 10-Heap Priority Queue
+- [ ] Complete 11-Intervals
+- [ ] Complete 12-Greedy
+
+### Phase 4: Graph Theory (November 1, 2024 - November 28, 2024)
+
+- [ ] Complete 13-Graphs
+- [ ] Complete 14-Advanced Graphs
+
+### Phase 5: Dynamic Programming (November 29, 2024 - December 26, 2024)
+
+- [ ] Complete 15-1-D DP
+- [ ] Complete 16-2-D DP
+
+### Phase 6: Specialized Topics (December 27, 2024 - January 23, 2025)
+
+- [ ] Complete 17-Bit Manipulation
+- [ ] Complete 18-Math & Geometry
+
+### Ongoing Tasks
+
+- [ ] Review and optimize previous solutions
+- [ ] Implement alternative solutions for problems
+- [ ] Participate in LeetCode contests to apply skills (aim for at least one contest per month)
+
+### Final Steps (January 24, 2025 - February 6, 2025)
+
+- [ ] Complete any remaining problems
+- [ ] Conduct a comprehensive review of all topics
+- [ ] Simulate mock interviews using learned concepts
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
