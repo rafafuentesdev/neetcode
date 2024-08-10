@@ -1,8 +1,6 @@
-# LeetCode Problem-Solving Template
+# Problem: Duplicate Integer
 
-## Problem: Duplicate Integer
-
-[NeetCode](https://neetcode.io)
+[NeetCode]([https://neetcode.io](https://neetcode.io/problems/duplicate-integer))
 
 ### Problem Statement
 
