@@ -1,6 +1,7 @@
 # Problem: Duplicate Integer
 
-[NeetCode]([https://neetcode.io](https://neetcode.io/problems/duplicate-integer))
+[NeetCode](https://neetcode.io/problems/duplicate-integer)
+
 
 ### Problem Statement
 
