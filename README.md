@@ -121,7 +121,7 @@ Each problem solved includes:
 
 ## My Progress
 
-- [ ] 01-Arrays & Hashing (0/9 completed)
+- [ ] 01-Arrays & Hashing (1/9 completed)
 - [ ] 02-Two Pointers (0/5 completed)
 - [ ] 03-Stack (0/7 completed)
 - [ ] 04-Binary Search (0/7 completed)
@@ -140,7 +140,7 @@ Each problem solved includes:
 - [ ] 17-Bit Manipulation (0/7 completed)
 - [ ] 18-Math & Geometry (0/8 completed)
 
-Total: 0/150 completed
+Total: 1/150 completed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
