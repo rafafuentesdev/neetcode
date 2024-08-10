@@ -28,6 +28,6 @@ Output: false
 
 ### Constraints
 
-s and t consist of lowercase English letters.
+`s` and `t` consist of lowercase English letters.
 
 TODO: Continue explaining README.md
