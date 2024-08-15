@@ -1,5 +1,5 @@
 import pytest
-from solution import (
+from solution_contains_duplicate import (
     BruteForceSolution,
     SortingSolution,
     HashSetSolution,

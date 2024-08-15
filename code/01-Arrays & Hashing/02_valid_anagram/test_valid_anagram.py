@@ -1,5 +1,5 @@
 import pytest
-from solution import (
+from solution_valid_anagram import (
     SortedSolution,
     CounterSolution,
     HashMapSolution,
